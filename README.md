@@ -1,4 +1,5 @@
 #Animal Adoption and Caretaking Management System
+
 Overview
 This project is a simple Animal Adoption and Caretaking Management System developed in Java using JDBC to interact with a MySQL database. The system allows users to manage information about animals, adopters, and caretakers, helping streamline the adoption and caretaking process.
 
